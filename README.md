@@ -30,7 +30,7 @@ To build the Memory Game project, you'll need the following materials:
 
 ## **Circuit Diagram**<a name="circuit-diagram"></a>
 
-!https://chat.openai.com/c/images/circuit_diagram.png
+!CIRCUIT DIAGRAM IMAGE HERE
 
 *Insert circuit diagram image here*
 
@@ -38,7 +38,7 @@ To build the Memory Game project, you'll need the following materials:
 
 Explore the interactive simulation of the Memory Game project on Tinkercad:
 
-[Tinkercad Simulation](https://www.tinkercad.com/your-tinkercad-link)
+[Tinkercad Simulation](https://www.tinkercad.com/)
 
 *Insert Tinkercad simulation images here*
 
